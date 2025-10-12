@@ -14,6 +14,9 @@
   /></a>
 </div>
 
+<div align="center">
+  <img height="200" src="https://i.imgur.com/1ZvVkDc.gif"  />
+</div>
 
 <br />
 
@@ -37,6 +40,18 @@
     alt="robertit1a"
   />
 </p>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31zmoviz3etgp4gew4u3f2duc3te">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zmoviz3etgp4gew4u3f2duc3te&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+
+
+
+
+
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
