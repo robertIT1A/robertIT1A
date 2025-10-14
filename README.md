@@ -33,13 +33,7 @@
 <br />
 
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=robertit1a&show_icons=true&locale=en&layout=compact"
-    alt="robertit1a"
-  />
-</p>
+
 
 <p>
   &nbsp;<img
