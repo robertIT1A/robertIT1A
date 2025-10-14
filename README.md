@@ -43,7 +43,7 @@
 
 <p>
   &nbsp;<img
-    align="center"
+    align="left"
     src="https://github-readme-stats.vercel.app/api?username=robertit1a&show_icons=true&locale=en"
     alt="robertit1a"
   />
