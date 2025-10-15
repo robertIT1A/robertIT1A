@@ -59,7 +59,10 @@
 
 
 
-![snake gif](https://github.com/robertIT1A/robertIT1A/blob/output/github-contribution-grid-snake.gif)
+<!--   green snake -->
+![robertIT1A's github activity graph](https://raw.githubusercontent.com/robertIT1A/robertIT1A/output/github-contribution-grid-snake.svg)
+
+
 
 
 <!-- - 🔭 I’m currently working on ...
