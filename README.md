@@ -58,6 +58,10 @@
 </p>
 
 
+
+![snake gif](https://github.com/robertIT1A/robertIT1A/blob/output/github-contribution-grid-snake.gif)
+
+
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
