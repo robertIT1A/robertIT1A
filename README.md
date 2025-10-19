@@ -63,6 +63,12 @@
 ![robertIT1A's github activity graph](https://raw.githubusercontent.com/robertIT1A/robertIT1A/output/github-contribution-grid-snake.svg)
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robertIT1A/robertIT1A/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robertIT1A/robertIT1A/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/robertIT1A/robertIT1A/output/pacman-contribution-graph.svg">
+</picture>
+
 
 
 <!-- - 🔭 I’m currently working on ...
