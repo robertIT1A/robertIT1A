@@ -19,19 +19,21 @@
 </div>
 
 <br />
-
+<!-- Language -->
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br />
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
-</div>
+
 <br />
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript" />
 </div>
 <br />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
+</div>
 
+<!-- Most Language Used -->
 <p>
   <img
     align="left"
@@ -42,14 +44,16 @@
 
 <br />
 
+<!-- Stats -->
 <p>
   &nbsp;<img
-    align="left"
+    align="right"
     src="https://github-readme-stats.vercel.app/api?username=robertit1a&show_icons=true&locale=en"
     alt="robertit1a"
   />
 </p>
 
+<!-- Streak -->
 <p>
   <img
     align="left"
