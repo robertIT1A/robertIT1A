@@ -54,13 +54,13 @@
 </p>
 
 <!-- Streak -->
-<p>
+<div align="center">
   <img
-    align="left"
     src="https://github-readme-streak-stats.herokuapp.com/?user=robertit1a&"
-    alt="robertit1a"
+    height="150"
+    alt="streak graph"
   />
-</p>
+</div>
 
 <div align="center">
 
