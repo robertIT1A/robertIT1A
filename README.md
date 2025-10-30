@@ -33,6 +33,30 @@
   <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
 </div>
 
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=robertit1a&"
+    height="150"
+    alt="streak graph"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=robertit1a&show_icons=true&locale=en&layout=compact"
+    height="150"
+    alt="languages graph"
+  />
+</div>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=robertit1a&show_icons=true&locale=en"
+    height="140"
+    alt="stats graph"
+  />
+</div>
+
+
+
+
 <!-- Most Language Used -->
 <p>
   <img
