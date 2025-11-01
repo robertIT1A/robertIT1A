@@ -58,34 +58,7 @@
 
 
 
-<!-- Most Language Used -->
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=robertit1a&show_icons=true&locale=en&layout=compact"
-    alt="robertit1a"
-  />
-</p>
 
-<br />
-
-<!-- Stats -->
-<p>
-  &nbsp;<img
-    align="right"
-    src="https://github-readme-stats.vercel.app/api?username=robertit1a&show_icons=true&locale=en"
-    alt="robertit1a"
-  />
-</p>
-
-<!-- Streak -->
-<div align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=robertit1a&"
-    height="150"
-    alt="streak graph"
-  />
-</div>
 
 <div align="center">
 
