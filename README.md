@@ -26,6 +26,7 @@
 
 
 <br />
+<!-- Streak -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript" />
 </div>
@@ -40,6 +41,7 @@
     height="150"
     alt="streak graph"
   />
+  <!-- Most Language Used -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=robertit1a&show_icons=true&locale=en&layout=compact"
     height="150"
@@ -48,6 +50,7 @@
 </div>
 
 <div align="center">
+  <!-- Stats -->
   <img
     src="https://github-readme-stats.vercel.app/api?username=robertit1a&show_icons=true&locale=en"
     height="140"
@@ -58,12 +61,6 @@
 
 
 
-
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app?username=robertIT1A&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
 
 
 <!-- Pacman -->
