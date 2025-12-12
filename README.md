@@ -41,39 +41,6 @@
 
 
 
-<!-- Streak -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=robertIT1A&theme=tokyonight&short_numbers=true)](https://git.io/streak-stats)
-
-
-  <!-- Most Language Used -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=robertit1a&show_icons=true&locale=en&layout=compact"
-    height="150"
-    alt="languages graph"
-  />
-</div>
-
-<div align="center">
-  <!-- Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=robertit1a&show_icons=true&locale=en"
-    height="140"
-    alt="stats graph"
-  />
-</div>
-
-
-
-
-
-
-
-<div align="center">
-<!-- Trophy -->
-  <img src="https://github-profile-trophy.vercel.app?username=robertIT1A&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-
 
 <!-- Pacman -->
 <picture>
