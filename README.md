@@ -64,6 +64,32 @@
 </p>
 
 
+<p>
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=robertit1a&"
+    alt="robertit1a"
+  />
+</p>
+
+---
+
+
+The following collection showcases my technical development across two key areas: core projects completed as part of the IT Paradigm WebDev Team, and specialized functional applications developed under RoviDev Mentoring. These tasks reflect my growth in front-end design, interactivity, and logic-based programming.
+
+| IT Paradigm (Webdev Team)                                                                | RoviDev Mentoring                                                                  |
+| ---------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------|
+| 1. [Profile Page](https://robertit1a.github.io/WEB_DEV_Profile_Page/)                    | 1. [Personal Profile](https://robertit1a.github.io/Personal-Profile-Card-Website/) |
+| 2. [Facebook Profile](https://robertit1a.github.io/WEB_DEV_Project/)                     | 2. [Flip Card](https://robertit1a.github.io/Rovi_Mentoring_Flip-Card/)             |
+| 3. [Resume](https://robertit1a.github.io/WEB_DEV-RESUME/)                                | 3. [Landing Page](https://robertit1a.github.io/Landing-page/)                      |
+| 4. [Gallery](https://robertit1a.github.io/WebDev_Gallery/#Love)                          | 4. [To Do List](https://robertit1a.github.io/Rovi_Mentoring-To_DO_List/)           |
+| 5.                                                                                       | 5. [Quiz App](https://robertit1a.github.io/Rovi_Mentoring_Quiz/)                   |
+| 6.                                                                                       | 6. [Expenes Traker](https://robertit1a.github.io/Rovi_Mentoring_Expenses_Traker/)  |
+
+
+
+> For more repositories, just go [here](https://github.com/robertIT1A?tab=repositories&q=&type=&language=&sort=).
+
 <!-- 
 
 <div align="left">
