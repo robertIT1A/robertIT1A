@@ -14,8 +14,8 @@
   /></a>
 </div>
 
-
 <!-- sakit sakit na -->
+<!-- pano ba makipag usap -->
 
 <div align="center">
   <img height="200" src="https://i.imgur.com/1ZvVkDc.gif"  />
