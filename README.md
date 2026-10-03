@@ -142,21 +142,18 @@
 <br />
 
 
-<br />
-<td align="center">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <!-- <br>Python -->
-    </td>
-    <td align="center">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <!-- <br>Javascript -->
-    </td>
+
 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript" />
+  <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />    
+    <!-- <br>Python -->
+  </a>
+  <a href="#macropower-tech">  
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <!-- <br>Javascript -->
+  </a>
 </div>
 <br />
 <div align="center">
