@@ -195,7 +195,17 @@
     src="https://github-readme-streak-stats.herokuapp.com/?user=robertit1a&"
     alt="robertit1a"
   />
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertit1a&layout=compact"
+    alt="robertit1a top languages"
+  />
 </p>
+<p>
+  
+</p>
+
+
 
 
 ---
